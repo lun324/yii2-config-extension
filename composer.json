@@ -2,7 +2,7 @@
     "name": "lun324/yii2-config-extension",
     "description": "The config extension for Yii framework.",
     "type": "yii2-extension",
-    "keywords": ["yii2", "yii 2", "config"],
+    "keywords": ["yii2", "yii 2", "config", "yii2 config"],
     "license": "MIT",
     "authors": [
         {
