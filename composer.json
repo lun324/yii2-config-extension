@@ -3,6 +3,7 @@
     "description": "The config extension for Yii framework.",
     "type": "yii2-extension",
     "keywords": ["yii2", "yii 2", "config", "yii2 config"],
+    "version": "1.0.0",
     "license": "MIT",
     "authors": [
         {
